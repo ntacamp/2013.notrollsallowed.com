@@ -54,6 +54,16 @@ auditoriją. Ji gali būti labai įvairi. Nepamirškite, kad gali būti žmonių
 kurie nedirba IT srityje. Žinoma, tai nereiškia, kad negalite ruošti techninių
 pranešimų, tačiau pasistenkite neapsiriboti tuo.
 
+**Kokia turi būti pranešimo trukmė?**
+
+Trukmė gali būti įvairi: nuo 5 minučių iki 1 valandos. Jei norėsite organizuoti
+ilgesnį nei 1h pranešimą ar dirbtuves, leiskite žinoti iš anksto. Galbūt tokiu
+atveju bandysime jums suorganizuoti atskirą vietą.
+
+**Vietoj pranešimo noriu pravesti pamoką apie _____, ką daryti?**
+
+Jokių problemų! Registruodamiesi nurodykite pristatymo tipą.
+
 **Ar galima atsivežti šeimyną?**
 
 Netgi rekomenduojama! Apie renginį galvokite taip, kad lyg važiuotumėte į

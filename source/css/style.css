@@ -1,3 +1,12 @@
+html {
+    background-image: url('http://static.colourlovers.com/images/v4.0/_/bg.png');
+    background-repeat: repeat;
+}
+
+body {
+    background-color: transparent;
+}
+
 h4 small
 {
     display: block;
@@ -22,7 +31,95 @@ footer.container {
 }
 @media (min-width: 980px) {
     body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+        padding-top: 0; /* 60px to make the container go all the way to the bottom of the topbar */
         padding-bottom: 40px;
     }
+}
+
+header {
+
+}
+
+header .border {
+    background-image: url('http://colourlovers.com.s3.amazonaws.com/images/patterns/1370/1370572.png');
+    background-size: 30px;
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 30px;
+    display: block;
+}
+
+.navbar .navbar-inner {
+    border-bottom: #bd362f 6px solid;
+    background: rgba(255, 255, 255, .7);
+}
+
+.navbar .nav {
+    float: inherit;
+    margin: 0 auto;
+    height: 120px;
+    line-height: 120px;
+    text-align: left;
+    opacity: 0.9;
+    padding: 0;
+    width: 900px;
+}
+
+.navbar .nav>li {
+    float: inherit;
+    display: inline-block;
+    width: auto;
+    padding: 0 15px;
+}
+
+.navbar .nav>li.menu_item {
+    height: 50px;
+    vertical-align: bottom;
+}
+
+.navbar .nav>li.slogan {
+    color: #333;
+    position: absolute;
+    top: 30px;
+    font-size: 22px;
+    font-family: "Lucida Console";
+}
+
+.navbar .nav>li>a {
+    color: #666;
+    font-family: "Lucida Console";
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.mainContent {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.row-fluid {
+    padding: 20px;
+    background-color: #fff;
+    opacity: 0.9;
+    background-image: url('http://colourlovers.com.s3.amazonaws.com/images/patterns/3615/3615009.png');
+    background-position: right top;
+    background-size: 120px;
+    background-repeat: repeat-y;
+}
+
+.orange {
+     color: #FFA446;
+}
+
+.black {
+    color: #000;
+}
+
+.blue {
+    color: #24C0EB;
+}
+
+.red {
+    color: #E35B5D;
 }

@@ -5,6 +5,10 @@ title: Vieta
 ---
 # Vieta
 
-* Elektra
+Bus papildyta.
+
+## Patogumai ir smagumai
+
+* Didelė pieva
 * Ežeras
-* WC
+* Elektra

@@ -16,28 +16,19 @@ Pagrindinė renginio mintis:
 
 ## Ką pasiimti su savimi?
 
-Renginys vyks po atviru dangumi, tad nepamirškite tinkamai pasiruošti išgyvenimui. Siūlome pasiimti:
+Renginys vyks po atviru dangumi, tad nepamirškite tinkamai pasiruošti
+išgyvenimui. Siūlome pasiimti:
 
-* Palapinę.
+* Palapinę, miegmaišį ir kitus jūsų patogiam poilsiui reikalingus dalykus.
 * Sulankstomų kėdžių arba kilimėlių pranešimų klausymui.
 * Kompiuterį.
 * Prailgintuvą (netgi ne vieną).
-* Maisto ruošimo priemonių (šašlykinę, indų).
+* Greitai negendančio maisto, gėrimų ir maisto ruošimo, bei saugojimo priemonių
+  (šašlykinę, indų, šaltkrepšį). Rekomenduojama nesivežti stiklinės taros, nes
+  nepatogu rinkti šukes iš pievos.
+* Maišų šiukšlėms sudėti.
 * Dalyvio kortelę, jei norite būti atpažintas(-a).
-* Aprangą tinkamą prognozuojamam orui (lietpaltis niekada nepamaišė).
-* Priemonių nuo kenkėjų.
+* Aprangą tinkamą prognozuojamam orui (lietpaltis ir botai niekada nepamaišė).
+* Priemonių, atbaidančių vabzdžius ir kitus kenkėjus.
 * Žaidimų laisvalaikio praleidimui.
-
-## Kelionė
-
-Bus papildyta.
-
-## Maistas ir gėrimai
-
-Atsivežkite maisto, gėrimų ir ruošimo priemonių. Rekomenduojama nesivežti stiklinės taros.
-
-## Higiena
-
-@todo Kaip ten dėl wc?
-
-## Šiukšlės
+* Gerą nuotaiką.

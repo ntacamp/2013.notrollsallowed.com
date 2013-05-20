@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Dažnai užduodami klausimai
+title: Dažniausiai užduodami klausimai
 
 ---
-# Dažnai užduodami klausimai
+# Dažniausiai užduodami klausimai
 
 **Ką reiškia pavadinimas "No Trolls Allowed"?**
 
-Pavadinimas atspindi renginio pagrindinę mintį. Jokių trolių. Tik žmonės, kurie nori
-pasidalinti savo žiniomis ir pasisemti idėjų iš kitų.
+Pavadinimas atspindi renginio pagrindinę mintį. Jokių trolių. Tik žmonės, kurie
+nori pasidalinti savo žiniomis ir pasisemti idėjų iš kitų.
 
 **Kas yra trolis?**
 
@@ -29,7 +29,8 @@ klaisytojai, bet ir pranešimų skaitytojai.
 
 **Ar šis suvažiavimas yra mokamas?**
 
-Suvažiavimas dalyviams yra nemokamas, vienintelė dalyvavymo sąlyga - privalomas pranešimas.
+Suvažiavimas dalyviams yra nemokamas, vienintelė dalyvavymo sąlyga - privalomas
+pranešimas.
 
 **Kada jis prasideda ir kada baigiasi?**
 
@@ -63,6 +64,15 @@ atveju bandysime jums suorganizuoti atskirą vietą.
 **Vietoj pranešimo noriu pravesti pamoką apie _____, ką daryti?**
 
 Jokių problemų! Registruodamiesi nurodykite pristatymo tipą.
+
+**Ar bus internetas?**
+
+Viešos interneto prieeigos nebus. Jei norite organizuoti dirbtuves, kurioms
+reikės vietinio tinklo, galite pasiimti maršrutizatorių.
+
+**Ar bus elektra?**
+
+Taip, elektra bus. Nepamirškite pasirūpinti prailgintuvais.
 
 **Ar galima atsivežti šeimyną?**
 

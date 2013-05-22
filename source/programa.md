@@ -11,10 +11,10 @@ Atvykstame, statome palapines, įsikuriame, susipažįstame.
 
 **Šeštadienis**
 
-Pranešimų diena.  Planuojame pastatyti vieną ar dvi palapines, skirtas
-pranešimams. Palapinių skaičius priklausys nuo poreikio ir pranešėjų kiekio.
-Jei turėsime dvi palapines, temas stengsimės išskirstyti į dvi grupes:
-technines ir lengvesnes. Taip stengiamės įtikti įvairiai auditorijai.
+Pranešimų diena. Planuojame įrengti vieną ar dvi vietas, skirtas pranešimams
+skaityti. Scenų skaičius priklausys nuo poreikio ir pranešėjų kiekio. Jei
+turėsime jas dvi, temas išskirstysime į dvi grupes: technines ir lengvesnes.
+Taip stengiamės įtikti įvairiai auditorijai.
 
 **Sekmadienis**
 
@@ -24,4 +24,3 @@ rankas ir važiuojame namo.
 ## Pristatymų sąrašas
 
 Pristatymų, dirbtuvių, pamokų sąrašas ir laikai bus pateikti vėliau.
-

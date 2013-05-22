@@ -3,7 +3,7 @@ layout: default
 title: Apie
 
 ---
-# Apie suvažiavimą
+# Apie renginį
 
 No Trolls Allowed - po atviru dangumi vykstantis renginys, siekiantis suburti
 įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, gykai,
@@ -12,7 +12,8 @@ galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite
 savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!
 
 Pagrindinė renginio mintis: 
-> Kiekvienas dalyvis turi paruošti pranešimą bet kokia tema, kuri, jo manymu, būtų įdomi kitiems.
+> Kiekvienas dalyvis turi paruošti pranešimą bet kokia tema, kuri, jo manymu,
+> būtų įdomi kitiems.
 
 ## Ką pasiimti su savimi?
 
@@ -23,12 +24,15 @@ išgyvenimui. Siūlome pasiimti:
 * Sulankstomų kėdžių arba kilimėlių pranešimų klausymui.
 * Kompiuterį.
 * Prailgintuvą (netgi ne vieną).
+* Maršrutizatorių, jei galvojate, kad jums jo gali prireikti (organizuotite
+  kokias nors dirbtuves ar norėsite pažaisti tinkle).
 * Greitai negendančio maisto, gėrimų ir maisto ruošimo, bei saugojimo priemonių
   (šašlykinę, indų, šaltkrepšį). Rekomenduojama nesivežti stiklinės taros, nes
   nepatogu rinkti šukes iš pievos.
+* Malkų.
 * Maišų šiukšlėms sudėti.
 * Dalyvio kortelę, jei norite būti atpažintas(-a).
 * Aprangą tinkamą prognozuojamam orui (lietpaltis ir botai niekada nepamaišė).
 * Priemonių, atbaidančių vabzdžius ir kitus kenkėjus.
-* Žaidimų laisvalaikio praleidimui.
+* Žaidimų laisvalaikio praleidimui (galit ir kompiuterinių).
 * Gerą nuotaiką.

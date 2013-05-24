@@ -1,0 +1,139 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 60px;
+  line-height: 150%;
+}
+
+.troll {
+  position: fixed;
+  z-index: 2;
+  top: -40px;
+  margin-left: 15px;
+}
+
+.troll-small {
+  position: absolute;
+  z-index: 2;
+  margin-top: -60px;
+  right: -120px;
+}
+
+.camp {
+  position: fixed;
+  bottom: -400px;
+}
+
+.name {
+  font-size: 18px;
+  line-height: 50px;
+  margin-top: 40px;
+  font-family: @serifFontFamily;
+  font-size: 145px;
+  z-index: 3;
+  position: relative;
+  margin-bottom: 0px;
+  span {
+    padding: 0 7px;
+  }
+}
+
+.navbar,
+.content,
+.jumbotron,
+.footer,
+.timeleft {
+  z-index: 3;
+  position: relative;
+}
+
+.content {
+  background-color: #fff;
+  opacity: 0.9;
+
+  p {
+    line-height: 21px;
+  }
+}
+
+/* Custom container */
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+.container > hr {
+  margin: 60px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 40px 0;
+  padding: 30px 0;
+  text-align: center;
+  background-color: #fff;
+  opacity: 0.8;
+  font-family: @serifFontFamily;
+}
+.jumbotron h1 {
+  font-size: 80px;
+  line-height: 1;
+}
+.jumbotron .lead {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 60px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+
+/* Customize the navbar links to be fill the entire space of the .navbar */
+.navbar {
+  width: 55%;
+  float: right;
+  opacity: 0.9;
+  margin-top: 80px;
+}
+.navbar .navbar-inner {
+  padding: 0;
+}
+.navbar .nav {
+  margin: 0;
+  display: table;
+  width: 100%;
+}
+.navbar .nav li {
+  display: table-cell;
+  width: 1%;
+  float: none;
+}
+.navbar .nav li a {
+  text-align: center;
+  border-left: 1px solid rgba(255,255,255,.75);
+  border-right: 1px solid rgba(0,0,0,.1);
+  font-size: 18px;
+  font-family: @serifFontFamily;
+}
+.navbar .nav li:first-child a {
+  border-left: 0;
+  border-radius: 3px 0 0 3px;
+}
+.navbar .nav li:last-child a {
+  border-right: 0;
+  border-radius: 0 3px 3px 0;
+}
+
+.content {
+  h2 {
+    font-family: @serifFontFamily;
+    font-size: 36px;
+  }
+}

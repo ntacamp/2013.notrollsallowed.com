@@ -25,16 +25,16 @@ Ištrauka iš [Wikipedia](http://lt.wikipedia.org/wiki/Trolis_(internete)):
 **Kodėl norint dalyvauti privaloma paruošti pranešimą?**
 
 Tai tam tikra apsauga nuo trolių, siekiant, kad renginyje būtų ne tik
-klaisytojai, bet ir pranešimų skaitytojai.
+klausytojai, bet ir pranešimų skaitytojai.
 
 **Ar šis suvažiavimas yra mokamas?**
 
-Suvažiavimas dalyviams yra nemokamas, vienintelė dalyvavymo sąlyga - privalomas
+Suvažiavimas dalyviams yra nemokamas, vienintelė dalyvavimo sąlyga - privalomas
 pranešimas.
 
 **Kada jis prasideda ir kada baigiasi?**
 
-Renginys vyks nuo 2013 Liepos 19 (penktadienio) iki Liepos 21 (sekmadienio).
+Renginys vyks nuo 2013 liepos 19 (penktadienio) iki liepos 21 (sekmadienio).
 Pranešimų sesija vyks šeštadienį, tad galite atvykti šią dieną.
 
 **Kaip atvykti į renginį?**
@@ -67,7 +67,7 @@ Jokių problemų! Registruodamiesi nurodykite pristatymo tipą.
 
 **Ar bus internetas?**
 
-Viešos interneto prieeigos nebus. Jei norite organizuoti dirbtuves, kurioms
+Viešos interneto prieigos nebus. Jei norite organizuoti dirbtuves, kurioms
 reikės vietinio tinklo, galite pasiimti maršrutizatorių.
 
 **Ar bus elektra?**

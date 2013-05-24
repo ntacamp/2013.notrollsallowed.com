@@ -7,6 +7,10 @@
         <link href="{{ site.url }}/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="{{ site.url }}/components/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
         <link href="{{ site.url }}/css/style.css" rel="stylesheet" type="text/css" />
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+        <!--[if IE 7]>
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome-ie7.min.css" rel="stylesheet">
+        <![endif]-->
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -15,49 +19,43 @@
         <style>
         /** quick fix because bootstrap <pre> has a background-color. */
         pre code { background-color: inherit; }
+
         </style>
     </head>
     <body>
         <header>
-            <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar navbar">
                 <div class="navbar-inner">
-                    <div class="container-fluid">
-                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </a>
-                        <a class="brand" href="{{ site.url }}/">{{ site.title }}</a>
-                        <div class="nav-collapse collapse">
-                            <ul class="nav">
-                                <li><a href="{{ site.url }}/apie">Apie</a></li>
-                                <li><a href="{{ site.url }}/programa">Programa</a></li>
-                                <li><a href="{{ site.url }}/vieta">Vieta</a></li>
-                                <li><a href="{{ site.url }}/duk">DUK</a></li>
-                                <li><a href="{{ site.url }}/kontaktai">Kontaktai</a></li>
-                            </ul>
-                        </div><!--/.nav-collapse -->
-                    </div>
+                    <ul class="nav">
+                        <li><a href="#"><img src="{{ site.url }}/images/logo.jpg" alt="apie" /></a></li>
+                        <li class="slogan">No Trolls Allowed</li>
+                        <li class="menu_item"><a href="{{ site.url }}/apie"><i class="icon-beaker icon-large green"></i> Apie</a></li>
+                        <li class="menu_item"><a href="{{ site.url }}/programa"><i class="icon-fire icon-large orange"></i> Programa</a></li>
+                        <li class="menu_item"><a href="{{ site.url }}/vieta"><i class="icon-road icon-large black"></i> Vieta</a></li>
+                        <li class="menu_item"><a href="{{ site.url }}/duk">DUK <i class="icon-question icon-large red"></i></a></li>
+                        <li class="menu_item"><a href="{{ site.url }}/kontaktai"><i class="icon-envelope icon-large blue"></i> Kontaktai</a></li>
+                    </ul>
                 </div>
             </div>
+
         </header>
         <div class="mainContent container">
             <div class="row-fluid">
                 <div class="span8">
                     {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
                 </div>
-                <div class="span4 sidebar">
+                <!--<<div class="span4 sidebar">
                     <div class="well">
                         <h4>{{ site.title }}{% if site.subtitle %} <small>{{ site.subtitle }}</small>{% endif %}</h4>
                     </div>
-                    <div class="well sidebar-nav">
-                        <h4>Links</h4>
+                    div class="well sidebar-nav">
+                        <h4>Remėjai</h4>
                         <ul class="nav">
                             <li><a href="http://sculpin.io">sculpin.io</a></li>
                             <li><a href="http://twitter.com/getsculpin">@getsculpin</a></li>
                         </ul>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
         <footer class="container">

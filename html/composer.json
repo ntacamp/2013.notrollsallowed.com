@@ -1,6 +1,5 @@
 {
-    "name": "isign/html",
-    "description": "iSign.lt html",
+    "name": "notrollsallowed/html",
     "require": {
         "twitter/bootstrap": "dev-master"
     },

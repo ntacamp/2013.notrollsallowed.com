@@ -2,6 +2,7 @@ body {
   padding-top: 20px;
   padding-bottom: 60px;
   line-height: 150%;
+  background: url('../img/bg.png');
 }
 
 .troll {
@@ -23,18 +24,13 @@ body {
   bottom: -400px;
 }
 
-.name {
-  font-size: 18px;
-  line-height: 50px;
-  margin-top: 40px;
-  font-family: @serifFontFamily;
-  font-size: 145px;
+.title {
+  margin-top: 30px;
+  margin-left: 400px;
   z-index: 3;
   position: relative;
   margin-bottom: 0px;
-  span {
-    padding: 0 7px;
-  }
+  display: block;
 }
 
 .navbar,
@@ -47,6 +43,7 @@ body {
 }
 
 .content {
+  padding: 20px 0;
   background-color: #fff;
   opacity: 0.9;
 
@@ -70,16 +67,18 @@ body {
   padding: 30px 0;
   text-align: center;
   background-color: #fff;
-  opacity: 0.8;
+  opacity: 0.95;
   font-family: @serifFontFamily;
 }
 .jumbotron h1 {
-  font-size: 80px;
+  font-size: 72px;
   line-height: 1;
+  margin-bottom: 20px;
 }
 .jumbotron .lead {
   font-size: 24px;
-  line-height: 1.25;
+  line-height: 1.5;
+  font-family: @sansFontFamily;
 }
 .jumbotron .btn {
   font-size: 21px;
@@ -100,7 +99,7 @@ body {
   width: 55%;
   float: right;
   opacity: 0.9;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 .navbar .navbar-inner {
   padding: 0;
@@ -135,5 +134,12 @@ body {
   h2 {
     font-family: @serifFontFamily;
     font-size: 36px;
+  }
+}
+
+.footer {
+  margin-top: 20px;
+  img {
+    margin-top: -5px;
   }
 }

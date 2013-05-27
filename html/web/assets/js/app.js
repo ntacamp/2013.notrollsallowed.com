@@ -7,11 +7,17 @@ $(document).ready(function(){
     var camp = $('.camp');
     var campStart = Math.abs(parseInt(camp.css('bottom')));
 
+    var bg = $('body');
+    var pos = 0;
+    
     var updateElements = function() {
         top = $(window).scrollTop();
 
         troll.css({'top': -trollStart-(top*1.5)});
         camp.css({'bottom': campStart+(top/1.5)-700});
+        
+        pos = '0 ' + (trollStart+(top*1.5)-700) + 'px';
+        bg.css('backgroundPosition', pos);
     };
 
     updateElements();

@@ -7,16 +7,9 @@ body {
 
 .troll {
   position: fixed;
-  z-index: 2;
+  z-index: 15;
   top: -40px;
   margin-left: 15px;
-}
-
-.troll-small {
-  position: absolute;
-  z-index: 2;
-  margin-top: -60px;
-  right: -120px;
 }
 
 .camp {
@@ -27,7 +20,7 @@ body {
 .title {
   margin-top: 30px;
   margin-left: 400px;
-  z-index: 3;
+  z-index: 20;
   position: relative;
   margin-bottom: 0px;
   display: block;
@@ -38,7 +31,7 @@ body {
 .jumbotron,
 .footer,
 .timeleft {
-  z-index: 3;
+  z-index: 20;
   position: relative;
 }
 
@@ -56,6 +49,8 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1000px;
+  position: relative;
+  z-index: 10;
 }
 .container > hr {
   margin: 60px 0;
@@ -145,5 +140,57 @@ body {
   margin-top: 20px;
   img {
     margin-top: -5px;
+  }
+}
+
+body.map,
+html {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+#map-canvas {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.map {
+  .masthead {
+    position: absolute;
+    top: 0px;
+    left: 20%;
+  }
+
+
+
+  .troll {
+    position: absolute;
+    top: auto;
+    right: 0px;
+    bottom: 0px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background: url('../img/troll-medium.png') no-repeat top left;
+    text-indent: -9999px;
+  }
+
+  .info {
+    position: absolute;
+    width: 500px;
+    opacity: 0.8;
+    left: 48%;
+    bottom: 0;
+    overflow: hidden;
+
+    .content {
+      padding: 20px;
+      height: auto;
+    }
   }
 }

@@ -1,7 +1,7 @@
 SRC = src/twitter/bootstrap
 ASSETS = web/assets
 VENDOR = vendor/twitter/bootstrap
-DEV_ASSETS = ../app/web/assets
+DEV_ASSETS = ../source/assets
 
 #
 # Build twitter bootstrap project. Compile LESS to CSS, copy other assets from src/ to web/

@@ -13,16 +13,13 @@
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     </head>
-    <body>
+    <body class="map">
 
-        <div class="container">
+      <div id="map-canvas"></div>
 
-        <div class="masthead clearfix">
-            <a href="{{ site.url }}/" class="troll" title="{{ site.title }}"><img src="{{ site.url }}/assets/img/troll.png" alt="" /></a>
-            <a href="{{ site.url }}/" class="title" title="{{ site.title }}"><img src="{{ site.url }}/assets/img/title.png" alt="" /></a>
-            
-            <div class="clearfix"></div>
-
+        <div class="masthead">
+            <a href="{{ site.url }}/" class="title"><img src="{{ site.url }}/assets/img/title.png" alt="" /></a>
+          
             <div class="navbar navbar-inverse">
               <div class="navbar-inner">
                 <div class="container">
@@ -37,30 +34,19 @@
               </div>
             </div><!-- /.navbar -->
         </div>
-  </div>
-
-      <div class="content">
-        <div class="container">
-          <div class="row-fluid">
-            {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+        <div class="container info">
+          <div class="content">
+            <article>
+              {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+            </article>
           </div>
-          <br>
         </div>
-      </div>
+        <a href="{{ site.url }}/" class="troll">No Trolls Allowed</a>
 
-      <div class="container">
-          <div class="footer">
-            <p>&copy; <a href="{{ site.url }}/" title="{{ site.title }}"><img src="{{ site.url }}/assets/img/title-tiny.png" alt=""/></a></p>
-          </div>
-          <!-- 
-          <div class="camp">
-            <img src="assets/img/camp.jpg" alt=""/>
-          </div>
-        -->
-    </div> <!-- /container -->
-
+        <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="{{ site.url }}/assets/js/app.js"></script>
+        <script src="{{ site.url }}/assets/js/map.js"></script>
         <script>window.jQuery || document.write('<script src="{{ site.url }}/components/jquery/jquery.min.js"><\/script>')</script>
         {% block scripts %}
         {% endblock %}

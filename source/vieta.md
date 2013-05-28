@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: map
 title: Vieta
 
 ---
-# Vieta
 
-Bus papildyta.
+<address>Bus papildyta.</address>
 
 ## Patogumai ir smagumai
 

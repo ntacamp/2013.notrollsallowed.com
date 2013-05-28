@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: inner
 title: Dažniausiai užduodami klausimai
 
 ---

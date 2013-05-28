@@ -5406,7 +5406,17 @@ html {
 .map .masthead {
   position: absolute;
   top: 0px;
-  left: 20%;
+  left: 70px;
+  width: 93%;
+}
+.map .masthead .title {
+  margin-left: 0px;
+  float: left;
+}
+.map .masthead .navbar {
+  width: 550px;
+  float: right;
+  margin-top: 46px;
 }
 .map .troll {
   position: absolute;
@@ -5421,13 +5431,14 @@ html {
 }
 .map .info {
   position: absolute;
-  width: 500px;
+  width: 100%;
   opacity: 0.8;
-  left: 20%;
   bottom: 0;
-  overflow: hidden;
 }
 .map .info .content {
-  padding: 20px;
   height: auto;
+  width: 100%;
+}
+.map .info .content article {
+  padding: 20px 6%;
 }

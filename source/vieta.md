@@ -15,7 +15,7 @@ stūkso etnografinė sodyba ir dangaus šviesulių stebykla. Renginio metu
 Vilniaus - Utenos plento 72-ame kilometre sukama rodyklės su užrašu
 "Observatorija 5 km." nurodyta kryptimi ir važiuojama 4 km. iki dešinėje kelio
 pusėje telkšančio Gilužio ežero. Už ežero pasukę į dešinę už 200 m. atrasite
-Etnografinę sodybą ([žr. schemą](assets/img/moletai.gif)). 
+Etnografinę sodybą ([žr. schemą](http://www.notrollsallowed.com/assets/img/moletai.gif)). 
 
 ## Patogumai ir smagumai
 

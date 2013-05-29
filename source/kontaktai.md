@@ -20,6 +20,6 @@ Norėdami prisijungti prie organizavimo, ar turite kitų klausimų, kreipkitės
 
 ## Parama
 
-Norėdami prisijungti prie organizavimo ar pagelbėti kitu būdu? Turite idėjų
+Norite prisijungti prie organizavimo ar pagelbėti kitu būdu? Turite idėjų
 kaip renginį padaryti įdomesnį? Nesidrovėkite ir kreipkitės aukščiau pateiktais
 kontaktais!

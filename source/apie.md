@@ -6,7 +6,7 @@ title: Apie
 # Apie renginį
 
 No Trolls Allowed - po atviru dangumi vykstantis renginys, siekiantis suburti
-įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, geekai,
+įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, įvairaus plauko geek'ai,
 mokslininkai, konstruktoriai, artistai, menininkai ir kitų sričių specialistai,
 galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite
 savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!
@@ -14,6 +14,12 @@ savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuoki
 Pagrindinė renginio mintis: 
 > Kiekvienas dalyvis turi paruošti pranešimą bet kokia tema, kuri, jo manymu,
 > būtų įdomi kitiems.
+
+## Renginio data ## {#data}
+
+Renginys vyks **2013 metų Liepos 19-21** dienomis. Kad būtų lengviau atsiminti
+- tai priešpaskutinis mėnesio savaitgalis. Šią data savo kalendoriuose
+pasižymėkite raudonai.
 
 ## Ką pasiimti su savimi?
 

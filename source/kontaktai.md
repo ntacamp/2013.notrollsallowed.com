@@ -16,3 +16,10 @@ Norėdami prisijungti prie organizavimo, ar turite kitų klausimų, kreipkitės
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/no-trolls-allowed)
   Pagrinde diskusijos organizavimo klausimais.
 * IRC: #parallax-manufactory @ Freenode - jei norite persimesti keliais žodžiais.
+
+
+## Parama
+
+Norėdami prisijungti prie organizavimo ar pagelbėti kitu būdu? Turite idėjų
+kaip renginį padaryti įdomesnį? Nesidrovėkite ir kreipkitės aukščiau pateiktais
+kontaktais!

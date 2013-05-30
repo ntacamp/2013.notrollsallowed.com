@@ -9,3 +9,4 @@
 s3.conf
 composer.phar
 .elasticbeanstalk/
+html/vendor/

@@ -10,7 +10,12 @@ title: Vieta
 stūkso etnografinė sodyba ir dangaus šviesulių stebykla. Renginio metu
 šalia esančioje pievoje įsikurs ir palapinių miestelis.
 
-# Kaip atvykti?
+## Kaina ## {#kaina}
+
+Vietos savininkai - Molėtų krašto muziejus - renka nedidelį mokestį už aplinkos
+priežiūrą. Savaitgaliui suma turėtų būti apie 12 Lt žmogui.
+
+## Kaip atvykti?
 
 Vilniaus - Utenos plento 72-ame kilometre sukama rodyklės su užrašu
 "Observatorija 5 km." nurodyta kryptimi ir važiuojama 4 km. iki dešinėje kelio

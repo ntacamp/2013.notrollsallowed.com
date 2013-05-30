@@ -80,6 +80,6 @@ showcss: vendor
 # make deploy
 #
 deploy:
-	cp -r ${ASSETS}/img/ ${DEV_ASSETS}/img
-	cp -r ${ASSETS}/css/ ${DEV_ASSETS}/css
-	cp -r ${ASSETS}/js/ ${DEV_ASSETS}/js
+	cp -r ${ASSETS}/img/* ${DEV_ASSETS}/img
+	cp -r ${ASSETS}/css/* ${DEV_ASSETS}/css
+	cp -r ${ASSETS}/js/* ${DEV_ASSETS}/js

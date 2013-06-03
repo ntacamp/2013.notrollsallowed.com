@@ -24,4 +24,11 @@ $(document).ready(function(){
     $(window).scroll(function(){
         updateElements();
     });
+
+    var anchor = window.location.hash.substring(1);
+    $('#tabs a[href="#' + anchor + '"]').tab('show');
+    $('#tabs a').click(function (e) {
+      // e.preventDefault();
+      $(this).tab('show');
+    })
 });

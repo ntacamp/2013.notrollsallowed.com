@@ -5333,10 +5333,6 @@ body {
   line-height: 1.5;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.jumbotron .small {
-  font-size: 12px;
-  margin: 15px 0 0;
-}
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
@@ -5441,7 +5437,7 @@ html {
 }
 .map .info .content {
   height: auto;
-  width: 100%;
+  width: 80%;
 }
 .map .info .content article {
   padding: 20px 6%;

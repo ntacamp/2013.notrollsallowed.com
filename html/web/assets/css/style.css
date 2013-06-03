@@ -5437,7 +5437,7 @@ html {
 }
 .map .info .content {
   height: auto;
-  width: 100%;
+  width: 80%;
 }
 .map .info .content article {
   padding: 20px 6%;

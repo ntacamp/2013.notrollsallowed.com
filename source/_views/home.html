@@ -26,13 +26,7 @@
             <div class="navbar navbar-inverse">
               <div class="navbar-inner">
                 <div class="container">
-                  <ul class="nav">
-                    <li><a href="{{ site.url }}/apie">Apie</a></li>
-                    <li><a href="{{ site.url }}/programa">Programa</a></li>
-                    <li><a href="{{ site.url }}/vieta">Vieta</a></li>
-                    <li><a href="{{ site.url }}/duk">DUK</a></li>
-                    <li><a href="{{ site.url }}/kontaktai">Kontaktai</a></li>
-                  </ul>
+                    {% include '_navigation.html' %}
                 </div>
               </div>
             </div><!-- /.navbar -->
@@ -43,9 +37,13 @@
             <div class="container">
 
               <h1>Veiklių žmonių suvažiavimas</h1>
-              <p class="lead">Tech, web, software engineers, geeks ir jiem prijaunčiantys - vienykimės! Bendraukim, pristatinėkim įdomius dalykus, dalinkimės sukaupta patirtimi.</p>
-              <a class="btn btn-large btn-success" href="#">Registruokis nemokamai</a>
-
+            <p class="lead">
+            Tech, web, software engineers, geeks ir jiem prijaunčiantys - vienykimės! Bendraukim, pristatinėkim įdomius dalykus, dalinkimės sukaupta patirtimi.<br>
+            </p>
+              <a class="btn btn-large btn-success" href="{{ site.url }}/registracija">Registruokis nemokamai <sup>*</sup></a>
+              <p class="small">
+                  <sup>*</sup>Vietos savininkai - Molėtų krašto muziejus - renka nedidelį mokestį už aplinkos priežiūrą. Savaitgalio kaina žmogui ~12 Lt.
+              </p>
             </div>
           </div>
 

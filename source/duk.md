@@ -30,7 +30,8 @@ klausytojai, bet ir pranešimų skaitytojai.
 **Ar šis suvažiavimas yra mokamas?**
 
 Suvažiavimas dalyviams yra nemokamas, vienintelė dalyvavimo sąlyga - privalomas
-pranešimas.
+pranešimas. Tikėtina, kad gali tekti sumokėti nedidelę sumą vietos savininkams
+- Molėtų krašto muziejui. Daugiau apie tai skaitykite puslapyje ["Vieta"](/vieta/#kaina).
 
 **Kada jis prasideda ir kada baigiasi?**
 

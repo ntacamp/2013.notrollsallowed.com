@@ -3,13 +3,15 @@
     
     <div class="span8">
       {% block content %}{% endblock %}
+      {% block html %}{% endblock %}
     </div>
     <div class="span4">
       <h3>Rėmėjai</h3>
       
       <div class="sponsor">
-        <a href="#" title="Web development"><img src="assets/img/partner/estina.jpg " alt="Estina"/></a>
+          <a href="http://www.estina.com/" title="Web development"><img src="{{ site.url }}/assets/img/partner/estina.jpg " alt="Estina"/></a>
         <hr>
+        {#
         <ul class="">
           <li>
             <a href="#">draugas Pawka</a>
@@ -21,6 +23,7 @@
             <a href="#">draugas Darles</a>
           </li>
         </ul>
+        #}
       </div>
    </div>
 

@@ -16,7 +16,7 @@ Norėdami prisijungti prie organizavimo, ar turite kitų klausimų, kreipkitės
 * [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/no-trolls-allowed)
   Pagrinde diskusijos organizavimo klausimais.
 * IRC: #parallax-manufactory @ Freenode - jei norite persimesti keliais žodžiais.
-
+* Facebook puslapis: [NoTrollsAllowed](https://www.facebook.com/NoTrollsAllowed) - Naujienos ir kita susijusi informacija.
 
 ## Parama
 

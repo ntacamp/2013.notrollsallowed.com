@@ -14,15 +14,15 @@ body {
 
     img {
       float: right;
-
     }
 
     b {
+      position: relative;
       padding-top: 27px;
       padding-right: 15px;
       float: right;
       display: block;
-      width: 500px;
+      width: 480px;
       text-align: right;
       color: darken(@linkColor, 10%);
     }
@@ -35,6 +35,19 @@ body {
 
 .presentation:nth-child(even) {
   background-color: lighten(#e5e1e7, 8%);
+}
+
+.presentation:hover {
+  background-color: darken(#e5e1e7, 5%);  
+  // opacity: opacity(1);
+  .author {
+    img {
+      .animation-spin();
+    }
+    b {
+      .animation-author-name();
+    }
+  }
 }
 
 .troll {

@@ -5261,6 +5261,140 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+@-webkit-keyframes animation_swing {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  25% {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  75% {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+@keyframes animation_swing {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  25% {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  75% {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes animation_spin {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes animation_spin {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes animation_author_name {
+  0% {
+    right: 0px;
+  }
+  30% {
+    right: 50px;
+  }
+  60% {
+    right: 20px;
+  }
+  100% {
+    right: 0px;
+  }
+}
+@keyframes animation_author_name {
+  0% {
+    right: 0px;
+  }
+  30% {
+    right: 50px;
+  }
+  60% {
+    right: 20px;
+  }
+  100% {
+    right: 0px;
+  }
+}
 body {
   padding-top: 20px;
   padding-bottom: 60px;
@@ -5287,11 +5421,12 @@ body {
   float: right;
 }
 .presentation .author b {
+  position: relative;
   padding-top: 27px;
   padding-right: 15px;
   float: right;
   display: block;
-  width: 500px;
+  width: 480px;
   text-align: right;
   color: #32203c;
 }
@@ -5300,6 +5435,23 @@ body {
 }
 .presentation:nth-child(even) {
   background-color: #f9f8f9;
+}
+.presentation:hover {
+  background-color: #d9d3dc;
+}
+.presentation:hover .author img {
+  -webkit-animation: animation_spin 0.3s ease-in-out 1;
+  -moz-animation: animation_spin 0.3s ease-in-out 1;
+  -ms-animation: animation_spin 0.3s ease-in-out 1;
+  -o-animation: animation_spin 0.3s ease-in-out 1;
+  animation: animation_spin 0.3s ease-in-out 1;
+}
+.presentation:hover .author b {
+  -webkit-animation: animation_author_name 0.3s ease 1;
+  -moz-animation: animation_author_name 0.3s ease 1;
+  -ms-animation: animation_author_name 0.3s ease 1;
+  -o-animation: animation_author_name 0.3s ease 1;
+  animation: animation_author_name 0.3s ease 1;
 }
 .troll {
   position: fixed;

@@ -5267,6 +5267,40 @@ body {
   line-height: 150%;
   background: url('../img/bg.png');
 }
+.presentation {
+  *zoom: 1;
+  padding: 15px;
+}
+.presentation:before,
+.presentation:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.presentation:after {
+  clear: both;
+}
+.presentation .author {
+  float: right;
+}
+.presentation .author img {
+  float: right;
+}
+.presentation .author b {
+  padding-top: 27px;
+  padding-right: 15px;
+  float: right;
+  display: block;
+  width: 500px;
+  text-align: right;
+  color: #32203c;
+}
+.presentation:nth-child(odd) {
+  background-color: #e5e1e7;
+}
+.presentation:nth-child(even) {
+  background-color: #f9f8f9;
+}
 .troll {
   position: fixed;
   z-index: 15;

@@ -5,6 +5,38 @@ body {
   background: url('../img/bg.png');
 }
 
+.presentation {
+  .clearfix();
+  padding: 15px;
+
+  .author {
+    float: right;
+
+    img {
+      float: right;
+
+    }
+
+    b {
+      padding-top: 27px;
+      padding-right: 15px;
+      float: right;
+      display: block;
+      width: 500px;
+      text-align: right;
+      color: darken(@linkColor, 10%);
+    }
+  }
+}
+
+.presentation:nth-child(odd) {
+  background-color: #e5e1e7;
+}
+
+.presentation:nth-child(even) {
+  background-color: lighten(#e5e1e7, 8%);
+}
+
 .troll {
   position: fixed;
   z-index: 15;

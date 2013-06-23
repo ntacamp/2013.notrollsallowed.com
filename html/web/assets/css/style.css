@@ -5431,13 +5431,13 @@ body {
   color: #32203c;
 }
 .presentation:nth-child(odd) {
-  background-color: #e5e1e7;
-}
-.presentation:nth-child(even) {
   background-color: #f9f8f9;
 }
+.presentation:nth-child(even) {
+  background-color: #fff;
+}
 .presentation:hover {
-  background-color: #d9d3dc;
+  background-color: #e5e1e7;
 }
 .presentation:hover .author img {
   -webkit-animation: animation_spin 0.3s ease-in-out 1;

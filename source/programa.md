@@ -277,6 +277,27 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
       </div>
   </div>
 
+  <div class="presentation">
+    <h3>Analoginės pramogos skaitmeniniame amžiuje</h3>
+    <p>Pristatysiu ir trumpai papasakosiu apie vieną populiariausių hobių pasaulyje - mėgėjišką radijo ryšį (amateur radio).</p>
+    <p>Apie radijo mėgėjus pasaulyje, Lietuvoje, jų pasiekimus ir kaip radijo ryšys padeda tobulėti įvairiose srityse.</p>
+    <p>Taip pat papasakosiu apie pirmuosius lietuvių žingsnius į kosmosą ir ką su tuo bendro turi mėgėjiškas (!) radijo ryšys.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/6a1c6b996852c7235b8a8d9afa298047" class="img-circle" />
+      <b>Simonas Kareiva LY2EN</b>
+    </div>
+  </div>
+
+
+  <div class="presentation">
+    <h3>Mano hobis - šalmų gaminimas</h3>
+    <p>Pristatysiu kaip nesudėtingai namų sąlygomis galima pasigaminti realaus dydžio "Stormtrooper", "Iron man" šalmus. Manau, kad tai puikus geeko namų aksesuaras.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/153543744e6ce472d93d8707c944914b" class="img-circle" />
+      <b>Algimantas Černiauskas</b>
+    </div>
+  </div>
+
 </div>
 <!-- template -->
 <!--

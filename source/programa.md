@@ -43,11 +43,11 @@ rankas ir važiuojame namo.
 
 <div class="presentation">
     <h3>Python programavimo mokymo priemonės ARBA  web2py frameworkas</h3>
-    <p>"Python'as - universali programavimo kalba -- tinkama tiek programavimo pagrindų mokymuisi, tiek kasdieniam skriptinimui (pvz, duomenų apdorojimui), tiek rimtoms sistemoms (pvz YouTube) 
+    <p>Python'as - universali programavimo kalba -- tinkama tiek programavimo pagrindų mokymuisi, tiek kasdieniam skriptinimui (pvz, duomenų apdorojimui), tiek rimtoms sistemoms (pvz YouTube) 
         <br>
         Galėčiau pusvalandžio/valandos supažindinimą su Python (ir IDE http://code.google.com/p/spyderlib/).
         <br>
-        Jei publika pakankamai advanced, galiu supažindinti su web freimworkiuku..., kuris paprastom sistemėlėm lab. patogus.."</p>
+        Jei publika pakankamai advanced, galiu supažindinti su web freimworkiuku..., kuris paprastom sistemėlėm lab. patogus..</p>
     <div class="author">
       <img src="http://www.gravatar.com/avatar/6b32b05b5906f456d2892e24a3e1f846" class="img-circle" />
       <b>Jurgis Pralgauskis dz0</b>
@@ -115,8 +115,8 @@ Ar esi naudojęsis el. parašu?</p>
 
 <div class="presentation">
     <h3>Open Technology Initiative idėjos pristatymas</h3>
-    <p>"Idėja apie Atvirų Technologijų Iniciatyvos įgyvendinimą. 
-Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskutuoti šia tema ir galbūt prisijungti prie Iniciatyvos įgyvendinimo."</p>
+    <p>Idėja apie Atvirų Technologijų Iniciatyvos įgyvendinimą. 
+Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskutuoti šia tema ir galbūt prisijungti prie Iniciatyvos įgyvendinimo.</p>
     <div class="author">
       <img src="http://www.gravatar.com/avatar/7d58d77c735dc36b1bd32714405ab2f5" class="img-circle" />
       <b>Petras Baukys</b>
@@ -150,6 +150,134 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
     </div>
 </div>
 
+<div class="new">
+  <div class="presentation">
+      <h3>10 dienų, 4 programuotojai, 1 Japonija</h3>
+      <p>Įspūdžiai iš ekspromtu suorganizuotos keturių informatikų kelionės po tekančios saulės šalį.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/90d4f64469bf7f163711037792065b28" class="img-circle" />
+        <b>Darius Leskauskas</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>Buzzing social networks BEFORE you have the product</h3>
+      <p></p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/03ae4c5b6ba62022b7b9b8957ec6cc9f" class="img-circle" />
+        <b>Dovydas Navickas</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>Alus ir jo gamyba</h3>
+      <p>Pristatymo metu, gyvai pademonstruosiu alaus gamybos procesą - virsime renginio alų pagal specialiai šiai progai sukurtą receptą. Gamybos proceso metu papasakosiu apie alaus tipus bei stilius, alaus istoriją bei vartojimo kultūrą. Degustuosime anksčiau, namuose gamintą alų :-)</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/12350c85c47042a635a64320e4d83504" class="img-circle" />
+        <b>Tomas Žeimys</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>Harmony of the CPU</h3>
+      <p>Johanes Kepler savo veikale Harmony of the World pademonstravo, kad tarp tam tikrų skaičių esti santykiai, kuriuos galima vadinti šventais, ar aušktesniais nei kiti santykiai. Ir kad tokių skaičių esti baigtinis kiekis.</p>
+      <p>Žmonija sukūrė procesorių - patį galingiausią santykių skaičiavimo įrankį - patį švenčiausią kada nors sukurtą įrankį. Bet to nežinodami, panaudoja visiškai ne pagal paskirtį. </p>
+      <p>Mes jį panaudosim iš esmės: ar tam tikrų santykių tarp skaičių skaičiavimas įtakoja procesoriaus būseną?</p>
+      <p>Įvadinė paskaita ir kolektyvinis workshopas."</p>
+
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/005decf4a0c5f2584d5deb81c107afa0" class="img-circle" />
+        <b>Zogg</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>Burgers burned: 83</h3>
+      <p>Nors stulbinančių rezultatų nepasiekiau ir dar nėra sėkmės istorijos su prieš ir po nuotraukomis, bet norėčiau pasidalinti mintimis ir patirtimi apie sporto programėles (Endomondo, Zombie, run, fitness pal ir t.t.) ir kaip jos skatina mane daugiau judėti.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/4414e4a964d508c90c7a80e538108577" class="img-circle" />
+        <b>Vaidas Lungis</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>NLP darbo aplinkoje</h3>
+      <p>Pristatyme bus pateikiami pavyzdžiai, kaip naudojant NLP žinias išklausyti, bei suprasti savo bendradarbius, kaip skatinti bendrą darbą, bei kaip leisti įmonės veiklai plėstis su mažomis pastangomis.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/algimantasskrasauskas@gmail.com" class="img-circle" />
+        <b>Algimantas Krasauskas, Smegenys</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>StartupSpace veikla ir kt.</h3>
+      <p>Pristatinėsiu StartupSpace veiklą.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/aad24e40538767f1ac24cc36fc05ea38" class="img-circle" />
+        <b>Antanas Dapkus</b>
+      </div>
+  </div>
+
+  <div class="presentation">
+      <h3>Kaip phpistui atsiversti į Ruby on Rails ;) praktiniai patarimai/pagalba</h3>
+      <p>Noriu pasidalinti perėjimo nuo php prie ruby on rails patirtimi.</p>
+      <p>Iššūkiai/sprendimai; kaip elgtis, kad neskaudėtų; ką skauda, kas džiugina ir kodėl nebenoriu žiūrėt atgal :)</p>
+      <p>Bonus material (optional, atskiras laikas turbūt?):</p>
+      <ul>
+        <li>Fat Free Framework (php) ir Sinatra (ruby) mikroframeworkų palyginimas, paraleliai rašant kokį nors simple projektuką ant abiejų </li>
+        <li>galiu padėti susikurti Ruby on Rails developinimo aplinką - dažna problema pradedantiesiems :)</li>
+      </ul>
+      <p class="muted">* Atviras pasiūlymams/rekomendacijoms</p>
+
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/1c02de76652ba56a8feb1a9bcee194e5" class="img-circle" />
+        <b>Adomas Sliužinskas</b>
+      </div>
+  </div>
+
+
+  <div class="presentation">
+      <h3>LituanicaSAT-1</h3>
+      <p>Lietuviško palydovo projektas.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/e6b74137ba365e294d7e53faff6acaa2" class="img-circle" />
+        <b>Vytenis Buzas</b>
+      </div>
+  </div>
+
+  
+  <div class="presentation">
+      <h3>Mikrogamyklos ir jų filosofija</h3>
+      <p>Pranešimas supažindins su vienu iš naujausių ir lanksčiausių gamybos būdų (taip pat paaiškinsiu ką tai reiškia), jo dabartiniu pritaikymu ir svarbiausia kaip tai ateityje gali pakeisti elektronikos verslą ir paspartinti DIY judėjimą pasaulyje.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/91924348af211242754e85536e66c8d1" class="img-circle" />
+        <b>Raimondas Jurgelaitis</b>
+      </div>
+  </div>
+
+  
+  <div class="presentation">
+      <h3>Virtuali realybė - kompiuterinių žaidimų ateitis</h3>
+      <p>Pristatymas - papasakosiu kur link juda virtualios realybės aplikacijos, su kokiomis problemomis susiduriama ir ko tikimės iš ateities technologijų.</p>
+      <p>Atskiras užsiėmimas, tai virtualios realybės šalmo - Oculus Rift demonstracija.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/9736f45a414731cf0f62a2a4ceb7a3f9" class="img-circle" />
+        <b>Nerijus Areska</b>
+      </div>
+  </div>
+
+  
+  <div class="presentation">
+      <h3>Doctrine2 extensions</h3>
+      <p>Doctrine2 extensions tai išplėtimas žinomam ORM doctrine ant PHP. https://github.com/l3pp4rd/DoctrineExtensions šis projektas yra gan populiarus tarp doctrine vartotojų.</p>
+      <p>Pristatymas supažindins su pagrindiniu funkcionalumu.</p>
+      <div class="author">
+        <img src="http://www.gravatar.com/avatar/213cb2e855af1cbbee74fdc7e9c6d92d" class="img-circle" />
+        <b>Gediminas Morkevicius</b>
+      </div>
+  </div>
+
+</div>
 <!-- template -->
 <!--
 <div class="presentation">
@@ -162,7 +290,7 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
 </div>
 -->
 
-
-... bus papildyta!
+<br><br>
+<p>... bus papildyta!</p>
 
 <p class="muted">* jeigu esi sąraše, bet nematai savo nuotraukos, tau reikia susitvarkyti <a href="http://en.gravatar.com/" target="_blank">gravatar avatarą</a></p>

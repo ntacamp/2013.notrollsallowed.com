@@ -5401,58 +5401,6 @@ body {
   line-height: 150%;
   background: url('../img/bg.png');
 }
-.presentation {
-  *zoom: 1;
-  padding: 15px;
-}
-.presentation:before,
-.presentation:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.presentation:after {
-  clear: both;
-}
-.presentation .author {
-  float: right;
-}
-.presentation .author img {
-  float: right;
-}
-.presentation .author b {
-  position: relative;
-  padding-top: 27px;
-  padding-right: 15px;
-  float: right;
-  display: block;
-  width: 480px;
-  text-align: right;
-  color: #32203c;
-}
-.presentation:nth-child(odd) {
-  background-color: #f9f8f9;
-}
-.presentation:nth-child(even) {
-  background-color: #fff;
-}
-.presentation:hover {
-  background-color: #e5e1e7;
-}
-.presentation:hover .author img {
-  -webkit-animation: animation_spin 0.3s ease-in-out 1;
-  -moz-animation: animation_spin 0.3s ease-in-out 1;
-  -ms-animation: animation_spin 0.3s ease-in-out 1;
-  -o-animation: animation_spin 0.3s ease-in-out 1;
-  animation: animation_spin 0.3s ease-in-out 1;
-}
-.presentation:hover .author b {
-  -webkit-animation: animation_author_name 0.3s ease 1;
-  -moz-animation: animation_author_name 0.3s ease 1;
-  -ms-animation: animation_author_name 0.3s ease 1;
-  -o-animation: animation_author_name 0.3s ease 1;
-  animation: animation_author_name 0.3s ease 1;
-}
 .troll {
   position: fixed;
   z-index: 15;
@@ -5481,8 +5429,8 @@ body {
 }
 .content {
   padding: 20px 0;
-  background-color: #fff;
-  opacity: 0.9;
+  position: relative;
+  background: url('../img/bg-light.png') repeat center;
 }
 .content p {
   line-height: 21px;
@@ -5631,4 +5579,98 @@ html {
 }
 .map .info .content article {
   padding: 20px 6%;
+}
+.presentation {
+  *zoom: 1;
+  padding: 15px;
+  position: relative;
+  z-index: 8;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: all 0.1s ease-in;
+  -moz-transition: all 0.1s ease-in;
+  -o-transition: all 0.1s ease-in;
+  transition: all 0.1s ease-in;
+}
+.presentation:before,
+.presentation:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.presentation:after {
+  clear: both;
+}
+.presentation h3 {
+  line-height: 120%;
+}
+.presentation .author {
+  *zoom: 1;
+  float: right;
+}
+.presentation .author:before,
+.presentation .author:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.presentation .author:after {
+  clear: both;
+}
+.presentation .author img {
+  float: right;
+}
+.presentation .author b {
+  position: relative;
+  padding-top: 27px;
+  padding-right: 15px;
+  float: right;
+  display: block;
+  width: 480px;
+  text-align: right;
+  color: #32203c;
+}
+.presentation:nth-child(odd) {
+  background-color: #f9f8f9;
+}
+.presentation:nth-child(even) {
+  background-color: #eceaee;
+}
+.new .presentation {
+  -webkit-box-shadow: 0 0px 15px #a9dba9;
+  -moz-box-shadow: 0 0px 15px #a9dba9;
+  box-shadow: 0 0px 15px #a9dba9;
+}
+.presentation:hover {
+  background-color: #fff;
+  -webkit-box-shadow: 0 0px 10px #b3b3b3;
+  -moz-box-shadow: 0 0px 10px #b3b3b3;
+  box-shadow: 0 0px 10px #b3b3b3;
+  z-index: 9;
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  -webkit-transition: all 0.1s ease-in;
+  -moz-transition: all 0.1s ease-in;
+  -o-transition: all 0.1s ease-in;
+  transition: all 0.1s ease-in;
+}
+.presentation:hover .author img {
+  -webkit-animation: animation_spin 0.3s ease-in-out 1;
+  -moz-animation: animation_spin 0.3s ease-in-out 1;
+  -ms-animation: animation_spin 0.3s ease-in-out 1;
+  -o-animation: animation_spin 0.3s ease-in-out 1;
+  animation: animation_spin 0.3s ease-in-out 1;
+}
+.presentation:hover .author b {
+  -webkit-animation: animation_author_name 0.3s ease 1;
+  -moz-animation: animation_author_name 0.3s ease 1;
+  -ms-animation: animation_author_name 0.3s ease 1;
+  -o-animation: animation_author_name 0.3s ease 1;
+  animation: animation_author_name 0.3s ease 1;
 }

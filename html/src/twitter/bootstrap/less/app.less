@@ -5,51 +5,6 @@ body {
   background: url('../img/bg.png');
 }
 
-.presentation {
-  .clearfix();
-  padding: 15px;
-
-  .author {
-    float: right;
-
-    img {
-      float: right;
-    }
-
-    b {
-      position: relative;
-      padding-top: 27px;
-      padding-right: 15px;
-      float: right;
-      display: block;
-      width: 480px;
-      text-align: right;
-      color: darken(@linkColor, 10%);
-    }
-  }
-}
-
-.presentation:nth-child(odd) {
-  background-color: lighten(#e5e1e7, 8%);
-}
-
-.presentation:nth-child(even) {
-  background-color: #fff;
-}
-
-.presentation:hover { 
-  background-color: #e5e1e7;
-
-  .author {
-    img {
-      .animation-spin();
-    }
-    b {
-      .animation-author-name();
-    }
-  }
-}
-
 .troll {
   position: fixed;
   z-index: 15;
@@ -82,8 +37,8 @@ body {
 
 .content {
   padding: 20px 0;
-  background-color: #fff;
-  opacity: 0.9;
+  position: relative;
+  background: url('../img/bg-light.png') repeat center;
 
   p {
     line-height: 21px;
@@ -254,6 +209,75 @@ html {
       article {
         padding: 20px 6%;
       }
+    }
+  }
+}
+
+
+
+.presentation {
+  .clearfix();
+  padding: 15px;
+  position: relative;
+  z-index: 8;
+
+  .scale(1.0);
+  .transition(all 0.1s ease-in);
+
+  h3 {
+    line-height: 120%;
+  }
+
+  .author {
+    .clearfix();
+    float: right;
+
+    img {
+      float: right;
+    }
+
+    b {
+      position: relative;
+      padding-top: 27px;
+      padding-right: 15px;
+      float: right;
+      display: block;
+      width: 480px;
+      text-align: right;
+      color: darken(@linkColor, 10%);
+    }
+  }
+}
+
+.presentation:nth-child(odd) {
+  background-color: lighten(#e5e1e7, 8%);
+}
+
+.presentation:nth-child(even) {
+  background-color: lighten(#e5e1e7, 3%);
+}
+
+
+.new {
+  .presentation{ 
+    .box-shadow(0 0px 15px lighten(@green, 30%));
+  }
+} 
+
+.presentation:hover { 
+  background-color: #fff;
+  .box-shadow(0 0px 10px lighten(#999, 10%));
+  z-index: 9;
+
+  .scale(1.05);
+  .transition(all 0.1s ease-in);
+
+  .author {
+    img {
+      .animation-spin();
+    }
+    b {
+      .animation-author-name();
     }
   }
 }

@@ -86,5 +86,11 @@ dantis, pasirūpinkite, kad kiti dalyviai galėtų jaustis patogiai.
 Būtų labai gerai, tačiau šiuo atveju galima padaryti išimtį. Jūsų šeimos
 nariams nereikės ruošti pristatymų.
 
-**Ar bus projektorius? **
+**Ar bus projektorius?**
+
 Taip.
+
+**Ar reikia turėti savo kompiuterį?**
+
+Priklauso nuo jūsų pranešimo pobūdžio. Jeigu norėsit rodyti tik skaidres 
+ir nenorit vežtis kompiuerio - jokių problemų. PPS (Power Point) prezentacijas bus kaip parodyt.

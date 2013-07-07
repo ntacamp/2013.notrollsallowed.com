@@ -85,3 +85,6 @@ dantis, pasirūpinkite, kad kiti dalyviai galėtų jaustis patogiai.
 
 Būtų labai gerai, tačiau šiuo atveju galima padaryti išimtį. Jūsų šeimos
 nariams nereikės ruošti pristatymų.
+
+**Ar bus projektorius? **
+Taip.

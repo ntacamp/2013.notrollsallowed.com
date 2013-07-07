@@ -93,4 +93,4 @@ Taip.
 **Ar reikia turėti savo kompiuterį?**
 
 Priklauso nuo jūsų pranešimo pobūdžio. Jeigu norėsit rodyti tik skaidres 
-ir nenorit vežtis kompiuerio - jokių problemų. PPS (Power Point) prezentacijas bus kaip parodyt.
+ir nenorit vežtis kompiuterio - jokių problemų. PPS (Power Point) prezentacijas bus kaip parodyt.

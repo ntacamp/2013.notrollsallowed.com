@@ -7,13 +7,22 @@
         <link rel="icon" type="image/png" href="{{ site.url }}/assets/img/favicon.png">
 
         <style type="text/css">
-        html, body { margin:0; padding:0;width:100%;height:100%; }
-        img { height: 100%; }
+        html, body { margin:0; padding:0; width:100%; height:100%; text-align:center; }
         </style>
     </head>
     <body>
         
-        <img src="{{ site.url }}/assets/img/aciu.jpg" alt="AČIŪ!">
+        <img id="aciu" src="{{ site.url }}/assets/img/aciu.jpg" alt="AČIŪ!" style="width:100%; max-width:100%; max-height:100%">
+        
+        <script type="text/javascript">
+            if (window.innerWidth > window.innerHeight) {
+                document.getElementById('aciu').style.width = 'auto';
+                document.getElementById('aciu').style.height = '100%';
+            } else {
+                document.getElementById('aciu').style.width = '100%';
+                document.getElementById('aciu').style.height = 'auto';
+            }
+        </script>
         
 
         {% if site.google_analytics_tracking_id %}

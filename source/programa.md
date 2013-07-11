@@ -150,7 +150,6 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
     </div>
 </div>
 
-<div class="new">
   <div class="presentation">
       <h3>10 dienų, 4 programuotojai, 1 Japonija</h3>
       <p>Įspūdžiai iš ekspromtu suorganizuotos keturių informatikų kelionės po tekančios saulės šalį.</p>
@@ -297,6 +296,216 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
       <b>Algimantas Černiauskas</b>
     </div>
   </div>
+
+<div class="new">
+
+  <div class="presentation">
+    <h3>Something went wrong. Didžiausios komunikacijos klaidos</h3>
+    <p>Dažniausios komunikacijos klaidos, bendraujant su programuotojais. Subalansuota ne programuotojams.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/b11c404ad1091908c8d3b3c20cd78d90" class="img-circle" />
+      <b>Vidmantas Kabošis</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Funkcinis/objektinis programavimas</h3>
+    <p>Pristatymo tikslas: pradėti kitaip žiūrėti į stereotipais tampančias programavimo (ir ne tik) idėjas.</p>
+    <p>Bus trumpai pristatomos programavimo paradigmos.</p>
+    <p>Palyginimas: kaip padeda kasdienėms problemoms: atskyrimui, išplėtimui, išlygiagretinimui, kodo skaitomumui.</p>
+    <p>Pavyzdžiai programuotojams: Scala ir JavaScript kalbose.</p>
+    <p>Panaudojimas ne programuotojams.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/345327098ed20c90e0dc94dd2580d2bf" class="img-circle" />
+      <b>Aurelijus Banelis</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Kaip sudominti žiniasklaidą</h3>
+    <p>(Buvusio) technologijų žurnalisto pamokėlė apie tai, kas įdomu žiniasklaidai ir kaip ją sudominti.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/00f1933e7da3251703ad5be036424dd7" class="img-circle" />
+      <b>Kostas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Lua. Su kuo ji valgoma? </h3>
+    <p>Pasistengsiu pateikti trumpą Lua'os pristatymą, pritaikymo sritis, galimybes, skonius - poskonius ir kitas subtilybes.</p>
+    <p>Taipogi apžvelgsiu pastarų dienų dienų naujoves, tendecijas, progresus ir regresus šios smagios kalbelės bendruomenėje.</p>
+    <p>Viliuosi užkabinti ir linksmybes su Lua varikliuko veikimu žemesniame lygyje ir bytecode'o krapštymo džiaugsmus.</p>
+
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/e81acdd9b6273c7860ac440c99eb747c" class="img-circle" />
+      <b>KąMykolas?</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>kaip n00bas susikodino sau kieto kuro katilinę</h3>
+    <p>Kaip Javos programeris iš buityje prieinamų daiktų susilitavo ir susikodavo kieto kuro katilinės valdymo sistemą. Rašyta ant C++ po linuksu. Čia jums ne kokie nors arduinai ar maindstormai, čia DIY.</p>
+    <p>Pamokoma istorija su fokusu ant objektinės architektūros sprendinių, beigi minimumu santechnikos ar elektronikos kad kontekstą iliustruot.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/3fb29cfd6169bf344f93ec384a574c9a" class="img-circle" />
+      <b>Mantas Urbonas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Vodka connect - Interactive drinking experience</h3>
+    <p>Turime įdėja kurti interaktyvų degtinės butelį ir padaryti specialią aplikaciją telefonams, kurie paparastą vakarėlį pakeltų į naują lygį, o patį butelį padarytų - smart. Papasakosime, kaip mes įsivaizduojame jį veikiant. LABAI IEŠKOME: bendraminčių kurie norėtų prisidėti prie projekto įgyvendinimo, laukiami visi atvirai padiskutuoti apie projekto įgyvendinimo galimybes!</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/c2f29a523741efd1463664cc8c0a4b0d" class="img-circle" />
+      <b>Mantas Kuginis ir Tomas Milišauskas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Sinestezija ir kitos įdomybės</h3>
+    <p>Keletas keistų mūsų pačių smegenų mums iškrečiamų pokštų :)</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/1799866f4e56d722473209435e62191c" class="img-circle" />
+      <b>ENORCA</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>1 mln. užklausų - kas į jas atsakys</h3>
+    <p>1 milijonas užklausų per sekundę (ir daugiau) - apimtys, su kuriomis susiduriama kuriant sistemas naudojamas visame pasaulyje.</p>
+    <p>Pristatyme apžvelgsiu, su kokiomis problemos susiduriama ir kaip jos sprendžiamos kuriant plačiai naudojamas sistemas, apdorojančias didelius duomenų kiekius.</p>
+
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/81e96471866cb3d736f7d93eb9f5af08" class="img-circle" />
+      <b>Justas Butkus</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Paprastumas</h3>
+    <p>Panašiai kaip žmonių santykiai, programuotojo santykiai su kuriama programa kartais komplikuojasi. Tiksliau, ne kartais, o maždaug visada. Kompleksiškumas gimsta spontaniškai, kaip ta tyli kiaulė knisasi iki kodo šerdies, nuodija mintis, godžiai ryja intelektinius išteklius, ir lėtai, bet užtikrintai veda produktą prie skausmingos mirties.</p>
+    <p>Ką iš tiesų reiškia būti ""paprastam"", ir kodėl taip sunku tą pasiekti. Kodėl tavo mylimiausias aplikacijų karkasas tave žudo? Kodėl tavo žmona neturėtų būti tavo viršininkė? Kultūroje, kurioje sudėtingi sprendimai laikomi norma (nes tokie dažnai būna lengviausi), labai svarbu mokėti atpažinti tikrą, nesuvaidintą paprastumą, ir eiti link jo.</p>
+
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/d7f734eded923eef15efd64701f44d1f" class="img-circle" />
+      <b>Osvaldas Grigas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Benamis</h3>
+    <p></p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/9b1dc79f9ca74e47f98ff5ad9b5c46f3" class="img-circle" />
+      <b>Juozas Kaziukėnas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Elastic search, kas tai?</h3>
+    <p>Papasakosiu kas yra elastic search, kada tai būna tikrai naudinga. Gyvai pademonstruosiu greitaveikos veikimą. Taip pat šiek tiek palyginimų su kitomis duomenų bazių sistemomis.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/066bb744ad7f208d4fad8f34ad9732a8" class="img-circle" />
+      <b>Simonas Šerlinskas, saimaz</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Naršyklėje atvaizduojamo turinio atnaujinimas realiu laiku (be naršytojo įsikišimo)</h3>
+    <p>Websocket, JavaScript, nodejs, socket.io. Kam tai reikalinga? Kodėl tai geriau negu įprastos technologijos t.y. standartinės HTTP užklausos? Kaip tai svarbu naujienų portalams, žinučių persiuntimo sistemoms, žaidimams, kitoms įvairaus taikymo sritims. Trumpas pavyzdukas.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/e0b053358cf6c9cf876de28039c50384" class="img-circle" />
+      <b>Kęstutis Vaškevičius, kik</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Digidone3d </h3>
+    <p>Pristatoma atviro kodo projekto Digidone3d koncepcija,šiuolaikinės 3d modeliavimo problemos paprasto žmogaus akimis,baziniai Digidone3d modeliavimo įrankiai.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/fde45ced0c9fef3090d078024d32b2be" class="img-circle" />
+      <b>Donatas Remeika Zigzauer</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Atviro kodo daiktų projektavimo programa</h3>
+    <p>Papasakosiu apie mūsų projektą - Digidone 3D. Norime pritaikyti Blender modeliavimo programą daiktų projektavimui. Pristatysiu, kodėl tokios atviro kodo sistemos reikia, kaip ji atrodys, kur link einame ir ką šiuo metu veikiame.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/b418d99e478b61c12da7c73b6bd785a2" class="img-circle" />
+      <b>Justas Ingelevičius</b>
+    </div>
+  </div>
+  
+  <div class="presentation">
+    <h3>Keliaujame motociklu</h3>
+    <p>Pabandysiu papasakoti apie kelionę motociklu. Kainas, keliavimo tempus, mantą, ruošą, motociklą ir t.t. </p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/cf47bac12bd8c606276653200bb6356d" class="img-circle" />
+      <b>Simonas Belickas, saimis</b>
+    </div>
+  </div>
+
+  
+  <div class="presentation">
+    <h3>Dviračiai mieste</h3>
+    <p>Dviračiai gali būti skirti važinėti ne tik laisvalaikiu, bet ir kasdienai į darbą, universitetą, mokyklą, darželį. Apie tai ir būtų pranešimas :)</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/245485743e27b1f8d0ec0c13e1f74fc6" class="img-circle" />
+      <b>Andrius Volungevičius</b>
+    </div>
+  </div>
+
+  
+  <div class="presentation">
+    <h3>Bitcoin pristatymas</h3>
+    <p>Pristatysiu patį bitcoin, populiariausius bitcoin naudojančius servisus ir programas. Taikoma naujokams. </p>
+    <p>Priklausomai nuo noro, laiko ir galimybių galėsim pamėgint padaryti kokį workshopą ir pasidalinti šia kriptovaliuta.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/8fd163e1404928dd939e01b68f258e99" class="img-circle" />
+      <b>Euphorbium</b>
+    </div>
+  </div>
+
+  
+  <div class="presentation">
+    <h3>Peak oil</h3>
+    <p>Pranešimo metu supažindinsiu su Peak Oil -- terminu kurį už dešimt metų turbūt linksniuosime kiekvieną dieną.</p>
+    <p>Kaip žinia, energetiniai ištekliai yra pagrindinis ekonomikos įtakojantis veiksnys. Nafta -- svarbiausias jų -- ne tik sudaro didžiausią dalį sunaudojamos energijos balanse, bet ir praktiškai neturi pakaitalo. Kadangi nafta -- neatsinaujinantis išteklis, laikui bėgant vis sunkiau pakeisti išnaudotus rezervus. Laiko momentas, kuomet to jau nebepavyks padaryti ir gavyba pradės kristi -- peak oil -- turės dideles pasėkmes mūsų gyvenimo būdui. Kada tai įvyks galima tik spėti, tačiau ekspertų tarpe didėja susirūpinimas, jog tai bus jau netolimoje ateityje.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/f23bc282e711595cea7812c8bdb410eb" class="img-circle" />
+      <b>Povilas Kanapickas</b>
+    </div>
+  </div>
+
+
+  <div class="presentation">
+    <h3>IT darbuotojų fizinis aktyvumas ir sveikata</h3>
+    <p>Noreciau neikyriai pakalbeti apie IT darbuotoju, daugiausia programuotoju fizini aktyvuma, gresiancias ligas, bei parodyti tiek mankstos, siek tiek apksritai pratimu darbo vietoje ir uz jos ribu., trumpai paliesti mityba</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/c77533c8840c39565e31380656ee30e7" class="img-circle" />
+      <b>Darius</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Laiko planavimas - laiko svaistymas</h3>
+    <p>Planuojant laiką teoriškai tampe produktyvesni, tačiau praktikoje tai retai pasiteisina. Kodėl?</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/59154924c87e60a2461aeae9af2b65e6" class="img-circle" />
+      <b>Mindaugas Vaičiūnas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Komercinis atviras kodas - kas ir kaip uždirba</h3>
+    <p>Pats  turiu daug reikalo su SugarCRM - tai vieni iš atviro kodo banginių. Derėjausiu dėl partnerystės, bet nusprendžiau tai atidėti. Manau galėčiau papasakoti kodėl. Taip pat kaip atrodo iš vidaus atviras kodas kurį kuria koks 100 full time programerių ir natūralu kad nori uždirbti. Bet turi ir stiprią bendruomenę. Kaip visi ten tarpusavyje santykiauja. Kartu pasitikrinčiau ar mano pasirinktas kelias yra geras.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/154553b2e2d4417438013e8422c583ec" class="img-circle" />
+      <b>Vytenis Dapkevičius, Mokas.lt</b>
+    </div>
+  </div>
+
 
 </div>
 <!-- template -->

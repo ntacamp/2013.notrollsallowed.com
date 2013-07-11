@@ -5674,3 +5674,15 @@ html {
   -o-animation: animation_author_name 0.3s ease 1;
   animation: animation_author_name 0.3s ease 1;
 }
+.sponsors {
+  text-align: center;
+}
+.sponsors img {
+  margin: 20px;
+}
+.sponsors-small a {
+  display: block;
+}
+.sponsors-small img {
+  margin: 20px 0;
+}

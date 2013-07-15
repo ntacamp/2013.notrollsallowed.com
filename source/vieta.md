@@ -28,6 +28,8 @@ title: Vieta
         "Observatorija 5 km." nurodyta kryptimi ir važiuojama 4 km. iki dešinėje kelio
         pusėje telkšančio Gilužio ežero. Už ežero pasukę į dešinę už 200 m. atrasite
         Etnografinę sodybą (<a href="http://www.notrollsallowed.com/assets/img/moletai.gif" target="_blank">žr. schemą</a>).</address></p>
+        <p>Maps.lt <a href="http://maps.lt/map/default.aspx?lang=lt#obj=598818;6131636;Pa%C5%BEym%C4%97tas%20ta%C5%A1kas;&xy=598763,6131674&z=2000&lrs=hybrid,stops,zebra" target="_blank">taškas</a></p>
+        <p>GPS: 55.310122, 25.556615</p>
     </div>
     <div class="tab-pane clearfix" id="patogumai-ir-smagumai">
         <h2>Patogumai ir smagumai</h2>

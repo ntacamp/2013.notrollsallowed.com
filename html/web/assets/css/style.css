@@ -5435,6 +5435,12 @@ body {
 .content p {
   line-height: 21px;
 }
+.content p a {
+  text-decoration: underline;
+}
+.content p a:hover {
+  text-decoration: none;
+}
 /* Custom container */
 .container {
   margin: 0 auto;

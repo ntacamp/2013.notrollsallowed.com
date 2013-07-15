@@ -14,7 +14,7 @@ title: Vieta
     <div class="tab-pane active" id="vieta">
         <h2>Vieta</h2>
         <p>Šalia Molėtų observatorijos vaizdingoje Lenktinio ežero pakrantėje 
-        stūkso etnografinė sodyba ir dangaus šviesulių stebykla. Renginio metu
+        stūkso <a href="http://muziejus.moletai.lt/sodyba.html" target="_blank">etnografinė sodyba</a> ir dangaus šviesulių stebykla. Renginio metu
         šalia esančioje pievoje įsikurs ir palapinių miestelis.</p>
     </div>
     <div class="tab-pane" id="kaina">

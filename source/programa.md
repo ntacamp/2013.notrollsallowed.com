@@ -535,6 +535,14 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
     </div>
   </div>
 
+  <div class="presentation">
+    <h3>Flash vs HTML5</h3>
+    <p></p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/4a6163630ac435d8f3cd1aa0447583b6" class="img-circle" />
+      <b>Marius Blažaitis (Kolia)</b>
+    </div>
+  </div>
 
 </div>
 <!-- template -->

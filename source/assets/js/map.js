@@ -1,9 +1,9 @@
 var map;
-var moletai = new google.maps.LatLng(55.312882, 25.408705);
+var moletai = new google.maps.LatLng(55.312882, 25.958705);
 var place = new google.maps.LatLng(55.312882, 25.558705);
 function initialize() {
     var mapOptions = {
-        zoom: 11,
+        zoom: 10,
         center: moletai,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     };

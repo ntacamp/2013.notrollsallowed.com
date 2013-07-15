@@ -15,6 +15,14 @@
         <![endif]-->
     </head>
     <body>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=146322532238730";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
 
         <div class="container">
 
@@ -49,6 +57,22 @@
             </div>
           </div>
 
+      <div class="content">
+
+        <div class="container social">
+          <h2>Naujienos</h2>
+          <div class="row-fluid">
+            <div class="network">
+              <a class="twitter-timeline" href="https://twitter.com/ntacamp" data-widget-id="356746050016538624">Tweets by @ntacamp</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </div>
+
+            <div class="network">
+              <div class="fb-like-box" data-href="https://www.facebook.com/NoTrollsAllowed" data-width="460" data-height="300" data-show-faces="true" data-stream="true" data-show-border="false" data-header="false"></div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="content">
         <div class="container">
           <div class="row-fluid">

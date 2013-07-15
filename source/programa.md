@@ -133,15 +133,6 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
 </div>
 
 <div class="presentation">
-    <h3>Sveikas sveikas programuotojau! (tiks ir kitiems)</h3>
-    <p>Pakalbėsim apie brangiausią turtą - sveikatą. Naujausi mokslinių tyrimų rezultatai, mokslininkų, terapeutų ir dietologų patarimai ir pasiūlymai. Kaip pagerinti sveikatą ir savijautą nebadaujant ir per daug nepersistengiant.</p>
-    <div class="author">
-      <img src="http://www.gravatar.com/avatar/2b361f522929d086b2a6cb137b3e8023" class="img-circle" />
-      <b>Mindaugas Liubinas</b>
-    </div>
-</div>
-
-<div class="presentation">
     <h3>Atviras kodas ativiram mokslui: kristalografinė duomenų bazė COD</h3>
     <p>Atviro kodo bei laisvos programos atveria kelius naujiems mokslo atradimų platinimo ir paieškoms būdams -- atviram mokslininkų bendradarbiavimui, pasitelkiant Žiniatinklio (WWW) platformas. Kaip šių naujų kelių įgyvendinimo pavyzdį noriu pateikti atvirą kristalografinę duomenų bazę COD (nuo angl. Crystallography Open Database), kurioje atvira prieiga prie mokslo duomenų pasiekta naudojant laisvas programas, universitetų, mokslo finansavimo institucijų, mokslo bendruomenės ir komercinių naudotojų paramą.</p>
     <div class="author">
@@ -296,8 +287,6 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
       <b>Algimantas Černiauskas</b>
     </div>
   </div>
-
-<div class="new">
 
   <div class="presentation">
     <h3>Something went wrong. Didžiausios komunikacijos klaidos</h3>
@@ -457,8 +446,8 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
   </div>
 
   
-  <div class="presentation">
-    <h3>Bitcoin pristatymas</h3>
+  <div class="presentation deleted">
+    <h3><span>Bitcoin pristatymas</span> <em>nedalyvaus</em></h3>
     <p>Pristatysiu patį bitcoin, populiariausius bitcoin naudojančius servisus ir programas. Taikoma naujokams. </p>
     <p>Priklausomai nuo noro, laiko ir galimybių galėsim pamėgint padaryti kokį workshopą ir pasidalinti šia kriptovaliuta.</p>
     <div class="author">
@@ -506,6 +495,46 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
     </div>
   </div>
 
+<div class="new">
+
+  <div class="presentation">
+    <h3>Namų media centras su Raspberry PI</h3>
+    <p>Pakalbėsim apie XBMC ir Raspberry Pi technologijomis paremtą namų media centrą. Patirtis, kaina, sunkumai ir malonumai..</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/2b361f522929d086b2a6cb137b3e8023" class="img-circle" />
+      <b>Mindaugas Liubinas</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Natūralus energetikai - no RedBull allowed</h3>
+    <p>Tema bus apie tai kaip pasikelti savo energijos lygi natūraliomis priemonėmis.</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/ff2cb871bd5d0634b6e4cf9e66fee03f" class="img-circle" />
+      <b>Liudas S</b>
+    </div>
+  </div>
+
+  <div class="presentation">
+    <h3>Ekoturizmas. Su kuo jis valgomas?</h3>
+    <p>Ekoturizmas - pasaulyje sparčiausiai augantis turizmo industrijos sektorius. Kodėl apie tai vengiama kalbėti? Lietuvos ekoturizmo perspektyvos - kaip jas išnaudoti?</p>
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/828080d7693c5c5aecd5ca3fdd3a9233" class="img-circle" />
+      <b>Rasius Janukaitis</b>
+    </div>
+  </div>
+  
+  <div class="presentation">
+    <h3>Kiekvienas gali kurti žaidimus</h3>
+    <p>Mes norim sukurt vieta kur kiekvienas gali ateiti ir prisijungti arba kurti žaidimus, apsus.Nesvarbu ar jis butu geras programuotojas ar tiesiog žmogus kuris nori pasidomėti šita tema.</p>
+    <p>Nes gerą žaidimą daro ne vien tik programuotojai.</p>
+
+    <div class="author">
+      <img src="http://www.gravatar.com/avatar/e35cf92c6c5addabca502a6a7745b099" class="img-circle" />
+      <b>Artur Kozlovskij</b>
+    </div>
+  </div>
+
 
 </div>
 <!-- template -->
@@ -521,6 +550,5 @@ Tikslas būtų supažindinti žmones, kad yra tokia idėja ir pakviesti padiskut
 -->
 
 <br><br>
-<p>... bus papildyta!</p>
 
 <p class="muted">* jeigu esi sąraše, bet nematai savo nuotraukos, tau reikia susitvarkyti <a href="http://en.gravatar.com/" target="_blank">gravatar avatarą</a></p>

@@ -224,6 +224,20 @@ html {
   .scale(1.0);
   .transition(all 0.1s ease-in);
 
+  &.deleted {
+
+    h3 span,
+    p,
+    .author b {
+      text-decoration: line-through;  
+    }
+
+    h3 em {
+      color: @red;
+      text-decoration: none;
+    }
+  }
+
   h3 {
     line-height: 120%;
   }

@@ -5604,6 +5604,15 @@ html {
 .presentation:after {
   clear: both;
 }
+.presentation.deleted h3 span,
+.presentation.deleted p,
+.presentation.deleted .author b {
+  text-decoration: line-through;
+}
+.presentation.deleted h3 em {
+  color: #9d261d;
+  text-decoration: none;
+}
 .presentation h3 {
   line-height: 120%;
 }

@@ -5701,3 +5701,23 @@ html {
 .sponsors-small img {
   margin: 20px 0;
 }
+.social {
+  *zoom: 1;
+}
+.social:before,
+.social:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.social:after {
+  clear: both;
+}
+.social .network {
+  margin-left: 50px;
+  float: left;
+  width: 45%;
+}
+.social .network:first-child {
+  margin-left: 0;
+}

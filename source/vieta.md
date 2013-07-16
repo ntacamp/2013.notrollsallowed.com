@@ -11,18 +11,7 @@ title: Vieta
     <li><a href="#patogumai-ir-smagumai">Patogumai ir smagumai</a></li>
 </ul>
 <div class="tab-content">
-    <div class="tab-pane active" id="vieta">
-        <h2>Vieta</h2>
-        <p>Šalia Molėtų observatorijos vaizdingoje Lenktinio ežero pakrantėje 
-        stūkso <a href="http://muziejus.moletai.lt/sodyba.html" target="_blank">etnografinė sodyba</a> ir dangaus šviesulių stebykla. Renginio metu
-        šalia esančioje pievoje įsikurs ir palapinių miestelis.</p>
-    </div>
-    <div class="tab-pane" id="kaina">
-        <h2>Kaina</h2>
-        <p>Vietos savininkai - Molėtų krašto muziejus - renka nedidelį mokestį už aplinkos
-        priežiūrą. Savaitgaliui suma turėtų būti apie 12 Lt žmogui.</p>
-    </div>
-    <div class="tab-pane" id="kaip-atvykti">
+    <div class="tab-pane active" id="kaip-atvykti">
         <h2>Kaip atvykti?</h2>
         <p>
             <address>
@@ -35,6 +24,17 @@ title: Vieta
         "Observatorija 5 km" nurodyta kryptimi ir važiuojama 4 km, kol pamatysit medinį <a href="{{ site.url }}/assets/img/rodykle.png">ženklą-rodyklę "Dangaus stebykla</a>", sukit rodyklės kryptimi (į dešinę) ir už 200 m atrasite
         Etnografinę sodybą (<a href="{{ site.url }}/assets/img/moletai.gif" target="_blank">žr. schemą</a>).</p>
         <p>GPS: 55.310122, 25.556615</p>
+    </div>
+    <div class="tab-pane" id="vieta">
+        <h2>Vieta</h2>
+        <p>Šalia Molėtų observatorijos vaizdingoje Lenktinio ežero pakrantėje 
+        stūkso <a href="http://muziejus.moletai.lt/sodyba.html" target="_blank">etnografinė sodyba</a> ir dangaus šviesulių stebykla. Renginio metu
+        šalia esančioje pievoje įsikurs ir palapinių miestelis.</p>
+    </div>
+    <div class="tab-pane" id="kaina">
+        <h2>Kaina</h2>
+        <p>Vietos savininkai - Molėtų krašto muziejus - renka nedidelį mokestį už aplinkos
+        priežiūrą. Savaitgaliui suma turėtų būti apie 12 Lt žmogui.</p>
     </div>
     <div class="tab-pane clearfix" id="patogumai-ir-smagumai">
         <h2>Patogumai ir smagumai</h2>

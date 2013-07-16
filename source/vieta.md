@@ -5,9 +5,9 @@ title: Vieta
 ---
 
 <ul class="nav nav-tabs" id="tabs">
-    <li class="active"><a href="#vieta">Vieta</a></li>
+    <li class="active"><a href="#kaip-atvykti">Kaip atvykti?</a></li>
+    <li><a href="#vieta">Vieta</a></li>
     <li><a href="#kaina">Kaina</a></li>
-    <li><a href="#kaip-atvykti">Kaip atvykti?</a></li>
     <li><a href="#patogumai-ir-smagumai">Patogumai ir smagumai</a></li>
 </ul>
 <div class="tab-content">
@@ -24,11 +24,16 @@ title: Vieta
     </div>
     <div class="tab-pane" id="kaip-atvykti">
         <h2>Kaip atvykti?</h2>
-        <p><address>Vilniaus - Utenos plento 72-ame kilometre sukama rodyklės su užrašu
-        "Observatorija 5 km." nurodyta kryptimi ir važiuojama 4 km. iki dešinėje kelio
-        pusėje telkšančio Gilužio ežero. Už ežero pasukę į dešinę už 200 m. atrasite
-        Etnografinę sodybą (<a href="http://www.notrollsallowed.com/assets/img/moletai.gif" target="_blank">žr. schemą</a>).</address></p>
-        <p>Maps.lt <a href="http://maps.lt/map/default.aspx?lang=lt#obj=598818;6131636;Pa%C5%BEym%C4%97tas%20ta%C5%A1kas;&xy=598763,6131674&z=2000&lrs=hybrid,stops,zebra" target="_blank">taškas</a></p>
+        <p>
+            <address>
+                <b>Etnografinė sodyba ir dangaus šviesulių stebykla</b><br>
+                <a href="http://www.notrollsallowed.com/assets/img/moletai.gif" target="_blank">Schema</a>
+                 / <a href="https://www.google.com/maps?q=55.310122,+25.556615&ll=55.310122,25.556624&spn=0.009745,0.01929&sll=37.06250000000001,-95.67706800000002&sspn=59.875557689742536,77.42373856721738&t=h&dg=opt&z=16&iwloc=near" target="_blank">Google Maps</a>
+                 / <a href="http://maps.lt/map/default.aspx?lang=lt#obj=598818;6131636;Pa%C5%BEym%C4%97tas%20ta%C5%A1kas;&xy=598763,6131674&z=2000&lrs=hybrid,stops,zebra" target="_blank">maps.lt</a>
+        </address>
+        Vilniaus - Utenos plento 72-ame kilometre sukama rodyklės su užrašu
+        "Observatorija 5 km" nurodyta kryptimi ir važiuojama 4 km, kol pamatysit medinį <a href="{{ site.url }}/assets/img/rodykle.png">ženklą-rodyklę "Dangaus stebykla</a>", sukit rodyklės kryptimi (į dešinę) ir už 200 m atrasite
+        Etnografinę sodybą (<a href="{{ site.url }}/assets/img/moletai.gif" target="_blank">žr. schemą</a>).</p>
         <p>GPS: 55.310122, 25.556615</p>
     </div>
     <div class="tab-pane clearfix" id="patogumai-ir-smagumai">

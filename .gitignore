@@ -11,3 +11,4 @@ composer.phar
 .elasticbeanstalk/
 html/vendor/
 .project
+web
